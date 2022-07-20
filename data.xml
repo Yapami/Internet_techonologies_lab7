@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARS>
+  <CAR>
+    <Name>Car1V1</Name>
+    <Text Color="green">Available</Text>
+  </CAR>
+  <CAR>
+    <Name>Car2V1</Name>
+    <Text Color="green">Available</Text>
+  </CAR>
+  <CAR>
+    <Name>Car1V2</Name>
+    <Text Color="green">Available</Text>
+  </CAR>
+  <CAR>
+    <Name>Car1V3</Name>
+    <Text Color="green">Available</Text>
+  </CAR>
+  <CAR>
+    <Name>Car2V3</Name>
+    <Text Color="green">Available</Text>
+  </CAR>
+  <CAR>
+    <Name>Car3V3</Name>
+    <Text Color="green">Available</Text>
+  </CAR>
+</CARS>
